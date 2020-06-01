@@ -1,0 +1,16 @@
+
+ #
+ # Filename     gawk.code
+ # Date         02/26/2019 (Valentines Day)
+ # Author       Mohammad Faisal Khan
+ # Email        mxk177030@utdallas.edu
+ # Course       CS 3377.502 Spring 2019
+ # Version      1.0
+ # Copyright2019, All Rights Reserved
+ #
+ # Description
+ #   
+
+{sum1= sum1 + $1}
+{sum4= sum4 + $4}
+END { print sum1, sum4}

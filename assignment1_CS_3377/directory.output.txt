@@ -1,0 +1,7 @@
+total 16
+-rw-r--r--   1 faisalkhan  staff   340 Jan 31 19:19 #header.h#
+drwxr-xr-x   6 faisalkhan  staff   192 Jan 31 19:33 .
+drwx------+ 33 faisalkhan  staff  1056 Jan 31 19:23 ..
+-rw-r--r--   1 faisalkhan  staff     0 Jan 31 19:33 directory.output.txt
+-rwxr--r-x   1 faisalkhan  staff    48 Jan 31 19:31 shell1.sh
+-rw-r--r--   1 faisalkhan  staff     0 Jan 31 19:28 shell1.sh~
